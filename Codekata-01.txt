@@ -1,0 +1,46 @@
+6-9
+<=3 hrs
+2hr:30min Contents
+Last 30 Min Doubt Clarifications..
+10-15 minutes
+
+2hrs/day
+4Hr-5hrs
+codekata - 2pblsms/day
+Making a habit of notes..
+Self-Learning...
+
+Module-1 to Module  4
+MERN 
+Backend,React,Node,Fullstack developer..
+
+JS concepts:
+data types, conditional statements, loops, arrays...
+
+
+Data type of a vaiable??
+typeof();
+Typecasting: Converting from one data type to another...
+{}-> flower brace : conditional as well as group of codes
+()-> methods..
+[]-> Arrays..
+
+Here the data type that we read ios of type string
+to convert string to number we use the parseInt()
+
+It converts the string to Number
+Ex: "23" -> 23
+var a = parseInt(userInput[0])
+console.log(typeof(a))
+
+variable is a name given to memory Location
+
+When You have an Array and you need to print it 
+We need for loop
+Why for Loop?
+For loop is a fixed execution Looping statement !!!!
+Now the array memory seems to be fixed during the execution of the program
+so we need to use for loop when you have an array...
+
+
+
